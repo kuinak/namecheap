@@ -32,7 +32,7 @@ About this project
 
 [![Code Climate](https://codeclimate.com/github/parasquid/namecheap/badges/gpa.svg)](https://codeclimate.com/github/parasquid/namecheap)
 
-Namecheap is a ruby wrapper for the [Namecheap API](http://developer.namecheap.com/docs/doku.php?id=api-reference:index)
+Namecheap is a ruby wrapper for the [Namecheap API](https://www.namecheap.com/support/api/intro.aspx)
 
 The code was originally forked from https://github.com/hashrocket/namecheap
 
