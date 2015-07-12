@@ -17,7 +17,7 @@ module Namecheap
     # @see https://www.namecheap.com/support/api/methods/domains/create.aspx
     def create(domain, options = {})
       options = {:DomainName => domain}.merge(options)
-      get 'domains.create', options
+      post 'domains.create', options
     end
 
     # Returns a list of tlds.
